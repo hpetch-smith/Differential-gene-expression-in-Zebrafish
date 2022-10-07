@@ -1,0 +1,14 @@
+Genotype 	Treatment
+WT	untreated
+WT	untreated
+WT	untreated
+WT	untreated
+MUT	untreated
+MUT	untreated
+MUT	untreated
+MUT	treated
+MUT	treated
+MUT	treated
+WT	treated
+WT	treated
+WT	treated
